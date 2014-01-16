@@ -1,7 +1,7 @@
 {
   "name": "node-min",
   "version": "0.0.0",
-  "description": "Minimal Node app",
+  "description": "Minimal Node+Express app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
